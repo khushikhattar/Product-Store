@@ -47,22 +47,6 @@ A simple React application to display products with features like **pagination**
 
 ---
 
-## Screenshots
-
-### Main Product Listing
-
-![Products](./screenshots/products.png)
-
-### Product Details
-
-![Product Details](./screenshots/product-details.png)
-
-### Popular Blogs
-
-![Blogs](./screenshots/blogs.png)
-
----
-
 ## What I Learned
 
 - Implementing **pagination** with dynamic page buttons.
