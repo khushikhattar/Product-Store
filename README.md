@@ -74,8 +74,8 @@ A simple React application to display products with features like **pagination**
    npm install
 
 4. Start the development server:
-   npm start
+   ```javascript
+      npm start
 
 5. Open your browser and go to:
    http://localhost:5173
-# Product-Store
